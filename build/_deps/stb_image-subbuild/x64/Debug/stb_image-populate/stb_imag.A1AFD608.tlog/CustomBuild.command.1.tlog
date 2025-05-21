@@ -1,0 +1,150 @@
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\20BBAA632F4C57DE08DD217D80CCDBA3\STB_IMAGE-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/tmp/stb_image-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/Debug/stb_image-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\20BBAA632F4C57DE08DD217D80CCDBA3\STB_IMAGE-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Repost\PGCCHIB-main\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/tmp/stb_image-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/Debug/stb_image-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\20BBAA632F4C57DE08DD217D80CCDBA3\STB_IMAGE-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Repost\PGCCHIB-main\build\_deps\stb_image-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/tmp/stb_image-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\20BBAA632F4C57DE08DD217D80CCDBA3\STB_IMAGE-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/Debug/stb_image-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\20BBAA632F4C57DE08DD217D80CCDBA3\STB_IMAGE-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Repost\PGCCHIB-main\build\_deps\stb_image-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/Debug/stb_image-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\20BBAA632F4C57DE08DD217D80CCDBA3\STB_IMAGE-POPULATE-BUILD.RULE
+setlocal
+cd C:\Repost\PGCCHIB-main\build\_deps\stb_image-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/Debug/stb_image-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\20BBAA632F4C57DE08DD217D80CCDBA3\STB_IMAGE-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Repost\PGCCHIB-main\build\_deps\stb_image-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/Debug/stb_image-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\20BBAA632F4C57DE08DD217D80CCDBA3\STB_IMAGE-POPULATE-TEST.RULE
+setlocal
+cd C:\Repost\PGCCHIB-main\build\_deps\stb_image-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/Debug/stb_image-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\78D4B66839D0B0A23128B70AAF1AE7A8\STB_IMAGE-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/Debug/stb_image-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/Debug/stb_image-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKEFILES\F3BC57740B1ACEA63EDBE0E705592ED8\STB_IMAGE-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\REPOST\PGCCHIB-MAIN\BUILD\_DEPS\STB_IMAGE-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild -BC:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild --check-stamp-file C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

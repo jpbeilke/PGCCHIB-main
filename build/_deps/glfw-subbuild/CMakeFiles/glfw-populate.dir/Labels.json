@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c1d404b6f03f256bcd48cc938c2b3ac5/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/4dd66f809c166fbd13c562e5239cc3ff/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c9eaa3f237ba8cb0e2cb8c455bdde421/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c9eaa3f237ba8cb0e2cb8c455bdde421/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c9eaa3f237ba8cb0e2cb8c455bdde421/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c9eaa3f237ba8cb0e2cb8c455bdde421/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c9eaa3f237ba8cb0e2cb8c455bdde421/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c9eaa3f237ba8cb0e2cb8c455bdde421/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c9eaa3f237ba8cb0e2cb8c455bdde421/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glfw-subbuild/CMakeFiles/c9eaa3f237ba8cb0e2cb8c455bdde421/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Repost/PGCCHIB-main/build/cmake_install.cmake",
+		"C:/Repost/PGCCHIB-main/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Repost/PGCCHIB-main/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Repost/PGCCHIB-main/build/_deps/glfw-build/docs/cmake_install.cmake",
+		"C:/Repost/PGCCHIB-main/build/_deps/glm-build/cmake_install.cmake",
+		"C:/Repost/PGCCHIB-main/build/_deps/glm-build/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/f3bc57740b1acea63edbe0e705592ed8/stb_image-populate.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/78d4b66839d0b0a23128b70aaf1ae7a8/stb_image-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/20bbaa632f4c57de08dd217d80ccdba3/stb_image-populate-build.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/20bbaa632f4c57de08dd217d80ccdba3/stb_image-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/20bbaa632f4c57de08dd217d80ccdba3/stb_image-populate-download.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/20bbaa632f4c57de08dd217d80ccdba3/stb_image-populate-install.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/20bbaa632f4c57de08dd217d80ccdba3/stb_image-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/20bbaa632f4c57de08dd217d80ccdba3/stb_image-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/20bbaa632f4c57de08dd217d80ccdba3/stb_image-populate-test.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/stb_image-subbuild/CMakeFiles/20bbaa632f4c57de08dd217d80ccdba3/stb_image-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb_image-populate"
+		],
+		"name" : "stb_image-populate"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/54b53fe10aa86aca4c33102c2855a2e4/glm-populate.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/ee2980c0789106ede37e1fa486280b74/glm-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/4afc0d54743a84ce2fd1007d995f627c/glm-populate-build.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/4afc0d54743a84ce2fd1007d995f627c/glm-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/4afc0d54743a84ce2fd1007d995f627c/glm-populate-download.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/4afc0d54743a84ce2fd1007d995f627c/glm-populate-install.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/4afc0d54743a84ce2fd1007d995f627c/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/4afc0d54743a84ce2fd1007d995f627c/glm-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/4afc0d54743a84ce2fd1007d995f627c/glm-populate-test.rule"
+		},
+		{
+			"file" : "C:/Repost/PGCCHIB-main/build/_deps/glm-subbuild/CMakeFiles/4afc0d54743a84ce2fd1007d995f627c/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}
