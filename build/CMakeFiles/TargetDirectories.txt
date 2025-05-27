@@ -12,6 +12,7 @@ C:/Repost/PGCCHIB-main/build/CMakeFiles/M3JogoCores.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/Exercicio1.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/Exercicio2.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/Exercicio3.dir
+C:/Repost/PGCCHIB-main/build/CMakeFiles/TarefaJogoCores.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/INSTALL.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/ALL_BUILD.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/ZERO_CHECK.dir

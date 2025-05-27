@@ -59,6 +59,7 @@ set(EXERCISES
     AplicacaoDeTransformacoes/Exercicio1
     AplicacaoDeTransformacoes/Exercicio2
     AplicacaoDeTransformacoes/Exercicio3
+    TarefaJogoDasCores/TarefaJogoCores
 )
 
 # Adiciona a flag -Wno-pragmas somente para compiladores GCC e Clang

@@ -22,12 +22,12 @@ Edit
 
 ## 💡 Fluxo Básico: Quando Rodar Cada Comando?
 
-| Mudança feita                      | Comando(s) que precisa rodar                                 |
-|-------------------------------------|-------------------------------------------------------------|
-| Só mudou código `.cpp`              | `cmake --build . --config Debug`                            |
-| Mudou `CMakeLists.txt`              | `cmake ..` → `cmake --build . --config Debug`               |
-| Adicionou/Removeu/Renomeou `.cpp`   | Atualize `CMakeLists.txt`, depois comandos acima             |
-| Quer rodar o executável             | `.\Debug\NomeDoExe.exe` (Windows) ou `./NomeDoExe` (Linux)  |
+| Mudança feita                     | Comando(s) que precisa rodar                                                                                        |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Só mudou código `.cpp`            | `cd build` -> `cmake --build . --config Debug`                                                              |
+| Mudou `CMakeLists.txt`            | `cd build` -> `cmake ..` -> `cmake --build . --config Debug`                                            |
+| Adicionou/Removeu/Renomeou `.cpp` | Atualize `CMakeLists.txt`, depois rode: -> `cd build` -> `cmake ..` -> `cmake --build . --config Debug` |
+| Quer rodar o executável           | `cd build` -> `.\Debug\NomeDoExe.exe` (Windows)                                                             |
 
 ---
 
