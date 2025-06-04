@@ -214,6 +214,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{9091ACB3-D3DB-3FAE-91F1-3AD2B1EF8A93}</Project>
       <Name>TarefaJogoCores</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Repost\PGCCHIB-main\build\TarefaObjetosTexturizados.vcxproj">
+      <Project>{1512B7CE-2B25-3332-9A71-9CD253E49EED}</Project>
+      <Name>TarefaObjetosTexturizados</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Repost\PGCCHIB-main\build\exemplo_00.vcxproj">
       <Project>{729A9F3E-58C9-3955-B83D-7B2F473C6CEA}</Project>
       <Name>exemplo_00</Name>
