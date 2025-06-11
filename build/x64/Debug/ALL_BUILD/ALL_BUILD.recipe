@@ -5,6 +5,9 @@
       <FullPath>C:\Repost\PGCCHIB-main\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
+      <FullPath>C:\Repost\PGCCHIB-main\build\Debug\ControleAnimacao.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>C:\Repost\PGCCHIB-main\build\Debug\Ex1Parte1M2.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
@@ -18,6 +21,12 @@
     </ProjectOutput>
     <ProjectOutput>
       <FullPath>C:\Repost\PGCCHIB-main\build\Debug\Exercicio3.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Repost\PGCCHIB-main\build\Debug\HelloAnimatedSprite.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Repost\PGCCHIB-main\build\Debug\HelloSprite.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
       <FullPath>C:\Repost\PGCCHIB-main\build\Debug\HelloTexture.exe</FullPath>

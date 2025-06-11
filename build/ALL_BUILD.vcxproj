@@ -174,6 +174,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
+    <ProjectReference Include="C:\Repost\PGCCHIB-main\build\ControleAnimacao.vcxproj">
+      <Project>{1004D4E4-ED3D-35CE-AB05-E6B2D299AB2B}</Project>
+      <Name>ControleAnimacao</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Repost\PGCCHIB-main\build\Ex1Parte1M2.vcxproj">
       <Project>{98CBDC8D-45C4-338F-B082-F12340FA9420}</Project>
       <Name>Ex1Parte1M2</Name>
@@ -193,6 +197,14 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ProjectReference Include="C:\Repost\PGCCHIB-main\build\Exercicio3.vcxproj">
       <Project>{E4F7E872-4842-3B74-A3CD-AD1E0D3D6B79}</Project>
       <Name>Exercicio3</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Repost\PGCCHIB-main\build\HelloAnimatedSprite.vcxproj">
+      <Project>{F9CF1B06-490C-3C9E-946D-B594527BFCCC}</Project>
+      <Name>HelloAnimatedSprite</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Repost\PGCCHIB-main\build\HelloSprite.vcxproj">
+      <Project>{D9852DC9-EAD3-3047-91BE-C18389F6D428}</Project>
+      <Name>HelloSprite</Name>
     </ProjectReference>
     <ProjectReference Include="C:\Repost\PGCCHIB-main\build\HelloTexture.vcxproj">
       <Project>{47837083-2B4A-3EC6-906C-77C9F84845E0}</Project>

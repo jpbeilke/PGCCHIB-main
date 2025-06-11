@@ -52,6 +52,8 @@ set(EXERCISES
     ExemplosMoodle/HelloTriangle
     ExemplosMoodle/HelloTransform
     ExemplosMoodle/HelloTexture
+    ExemplosMoodle/HelloSprite
+    ExemplosMoodle/HelloAnimatedSprite
     Modulo2/Ex1Parte1M2
     Modulo2/Ex1Parte2M2
     Modulo3/M3JogoCores
@@ -61,6 +63,7 @@ set(EXERCISES
     AplicacaoDeTransformacoes/Exercicio3
     TarefaJogoDasCores/TarefaJogoCores
     TarefaInstanciandoObjetosTexturizados/TarefaObjetosTexturizados
+    TarefaControleAnimacaoDeSprites/ControleAnimacao
 )
 
 # Adiciona a flag -Wno-pragmas somente para compiladores GCC e Clang

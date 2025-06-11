@@ -6,6 +6,8 @@ C:/Repost/PGCCHIB-main/build/CMakeFiles/exemplo_04.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/HelloTriangle.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/HelloTransform.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/HelloTexture.dir
+C:/Repost/PGCCHIB-main/build/CMakeFiles/HelloSprite.dir
+C:/Repost/PGCCHIB-main/build/CMakeFiles/HelloAnimatedSprite.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/Ex1Parte1M2.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/Ex1Parte2M2.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/M3JogoCores.dir
@@ -14,6 +16,7 @@ C:/Repost/PGCCHIB-main/build/CMakeFiles/Exercicio2.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/Exercicio3.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/TarefaJogoCores.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/TarefaObjetosTexturizados.dir
+C:/Repost/PGCCHIB-main/build/CMakeFiles/ControleAnimacao.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/INSTALL.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/ALL_BUILD.dir
 C:/Repost/PGCCHIB-main/build/CMakeFiles/ZERO_CHECK.dir
